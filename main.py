@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 1100, 700
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Sorting Algorithm Visualizer")
 
-# Color variables
+# Color variables - COLOR = (R, B, G)
 WHITE = (250, 250, 250)
 GREY = (100, 100, 100)
 RED = (255, 50, 50)
